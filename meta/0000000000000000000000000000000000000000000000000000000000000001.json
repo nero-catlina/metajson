@@ -1,0 +1,19 @@
+{
+    "name": "Gold",
+    "description": "The gold of NieR",
+    "image": "https://img2.baidu.com/it/u=2608632608,3005828162&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=430",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "金币"
+        },
+        {
+            "trait_type": "Replaceable",
+            "value": "不可替代"
+        },
+        {
+            "trait_type": "From",
+            "value": "购买"
+        }
+    ]
+}

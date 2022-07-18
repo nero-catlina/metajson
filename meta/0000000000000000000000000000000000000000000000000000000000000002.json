@@ -1,0 +1,19 @@
+{
+    "name": "Experience",
+    "description": "The experience of NieR",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe7tLCk51Z7OCXjZrYYwr7Gx-KpjRFy7oA8Q&usqp=CAU",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "经验"
+        },
+        {
+            "trait_type": "Replaceable",
+            "value": "不可替代"
+        },
+        {
+            "trait_type": "From",
+            "value": "系统"
+        }
+    ]
+}
