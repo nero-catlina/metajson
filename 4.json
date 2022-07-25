@@ -1,0 +1,32 @@
+{
+    "name": "尼尔：机械纪元 #4",
+    "description": "尤尔哈2B是人类所派遣的作为步兵团成员的泛用战斗型机器人，外表为女性，白色短发，戴着黑色眼罩（其实是标准配置军用目镜），身穿黑色哥特风连衣裙，脚穿黑色过膝高跟皮靴",
+    "image": "https://raw.githubusercontent.com/nero-catlina/metajson/master/files/2B.jpeg",
+    "external_url": "https://raw.githubusercontent.com/nero-catlina/metajson/master/1.json",
+    "attributes": [
+        {
+            "trait_type": "Sex",
+            "value": "女"
+        },
+        {
+            "trait_type": "Voice",
+            "value": "石川由依"
+        },
+        {
+            "trait_type": "Fight",
+            "value": "近战"
+        },
+        {
+            "trait_type": "Weapons",
+            "value": "白之契约"
+        },
+        {
+            "trait_type": "HP",
+            "value": "100"
+        },
+        {
+            "trait_type": "Chip",
+            "value": "可回收"
+        }
+    ]
+}
