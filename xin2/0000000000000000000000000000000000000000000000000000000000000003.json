@@ -1,0 +1,15 @@
+{
+    "name": "CRAYON04",
+    "description": "CRAYON04",
+    "image": "https://img1.baidu.com/it/u=1773523857,3215786393&fm=253&fmt=auto&app=138&f=JPG?w=889&h=500",
+    "attributes": [
+        {
+            "trait_type": "名称",
+            "value": "小白"
+        },
+        {
+            "trait_type": "毛色",
+            "value": "白色"
+        }
+    ]
+}
