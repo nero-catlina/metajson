@@ -1,0 +1,16 @@
+{
+    "name": "蜡笔小新 #5",
+    "description": "蜡笔小新 #5",
+    "image": "https://img2.baidu.com/it/u=592055828,533629372&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500",
+    "external_url": "https://raw.githubusercontent.com/nero-catlina/metajson/master/xin/5.json",
+    "attributes": [
+        {
+            "trait_type": "头发",
+            "value": "恐龙"
+        },
+        {
+            "trait_type": "衣服",
+            "value": "粉色"
+        }
+    ]
+}
